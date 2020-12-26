@@ -1,27 +1,22 @@
 <template>
   <div id="app">
-    <h1>Sitio Web En Mantenimiento</h1>
-    <img alt="icono" width="500" height="400" src="./assets/mantenimiento.svg">
+    <landing></landing>
   </div>
 </template>
 
 <script>
 
+import landing from './views/Landing.vue'
+
 export default {
   name: 'App',
   components: {
-    
+  
+    "landing":landing,
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
