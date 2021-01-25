@@ -8,10 +8,10 @@
 
 import landing from './views/Landing.vue'
 
+
 export default {
   name: 'App',
-  components: {
-  
+  components: {  
     "landing":landing,
   }
 }

@@ -14,7 +14,7 @@
         <img src="../assets/img/emoji.gif" width="60" height="60" class="rounded-full mr-4 inline-block ">
         <a
           class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white"
-          href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation"
+          href="#"
           >
          
           <span class="text-white text-2xl text-center">FIGTE</span>
@@ -38,7 +38,7 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/landing"
+              href="#"
               ><i
                 class="lg:text-gray-300 text-gray-500 fas fa-file-code circle-down text-lg leading-lg mr-2"
               ></i>
@@ -51,42 +51,43 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="https://www.facebook.com/walther.figueroatejada"
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-facebook text-lg leading-lg "
               ></i
-              ><span class="lg:hidden inline-block ml-2">Share</span></a
+              ><span class="lg:hidden inline-block ml-2">facebook</span></a
             >
           </li>
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="https://twitter.com/Figte4"
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-twitter text-lg leading-lg "
               ></i
-              ><span class="lg:hidden inline-block ml-2">Tweet</span></a
+              ><span class="lg:hidden inline-block ml-2">twitter</span></a
             >
           </li>
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="https://github.com/figte"
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-github text-lg leading-lg "
               ></i
-              ><span class="lg:hidden inline-block ml-2">Star</span></a
+              ><span class="lg:hidden inline-block ml-2">github</span></a
             >
           </li>
           <li class="flex items-center">
-            <button
+            <a
               class="bg-white text-gray-800 active:bg-gray-100 text-xs font-bold uppercase px-4 py-2 
               rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3"
               type="button"
               style="transition: all 0.15s ease 0s;"
+              href="#"
             >
                <i class="fab fa-blogger-b circle-down"></i> Mi Blog
-            </button>
+            </a>
           </li>
         </ul>
       </div>
