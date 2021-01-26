@@ -21,10 +21,8 @@
           </svg>
         </div>
 
-   
-
         <div class="container mx-auto px-4">
-             <div class="flex mt-8">
+          <div class="flex mt-8">
            
                 <h3 class="flex-1 text-3xl font-semibold text-center">
                      <!-- icono del contenido de la seccion -->
@@ -36,7 +34,8 @@
                   Logros
                </h3>
 
-            </div>
+          </div>
+          
           <div class="items-center flex flex-wrap">
          
             
@@ -50,14 +49,14 @@
             </div>
             
             <!-- contenido de la seccion -->
-            <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
-              <div class="md:pr-12">
+            <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
+              <div class="pr-12">
                 
                 <!-- logros -->
                 <!-- <p class="mt-4 text-lg leading-relaxed text-gray-600">
                   Logros
                 </p> -->
-                <ul class="list-none mt-6">
+                <ul class="list-none mt-6 text-justify">
                   <li class="py-2">
                     <div class="flex items-center">
                       <div>
@@ -68,7 +67,7 @@
                       <div>
                         <h4 class="text-gray-600">
                           Publicación de paper, documento cinetifico, en IEEExplore, con el tema: Depurador de procedimientos almacenados
-                          para MySQL. enlace: <span class="text-blue-800">https://ieeexplore.ieee.org/document/8075214</span> 
+                          para MySQL.
                         </h4>
                       </div>
                     </div>
@@ -87,18 +86,6 @@
                       </div>
                     </div>
                   </li>
-                  <!-- <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fas fa-medal text-xl"></i></span>
-                      </div>
-                      <div>
-                        <h4 class="text-gray-600"></h4>
-                      </div>
-                    </div>
-                  </li> -->
                 </ul>
               </div>
             </div>

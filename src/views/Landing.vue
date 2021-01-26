@@ -31,7 +31,6 @@
       <form-contact></form-contact>
       <!-- ********************************************************************************* -->
     </main>
-
     <footer-component></footer-component>
 
   </div>

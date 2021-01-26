@@ -1,6 +1,6 @@
 <template>
-    <div class="mt-12 md:mt-14 relative pt-8 md:pt-16 pb-32 flex justify-center w-full"
-      style="height: 25em"
+    <div class=" mt-8 md:mt-8 relative pt-8 md:pt-16 pb-32 flex justify-center w-full "
+      style="height: 27em"
        
       >
       
