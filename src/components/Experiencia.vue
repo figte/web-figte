@@ -86,8 +86,112 @@
           <!-- Informacion personal *************************-->
           <div class="flex flex-wrap items-center mt-2">
 
-             <!-- texto informativo -->
-            <div class="w-full md:w-5/12 px-2 mr-auto ml-auto mt-8">
+        <!-- card con imagen referente a la seccion -->
+            <div class="w-full md:w-4/12 px-4">
+              
+              <!-- foto -->
+              <div
+                class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-700 mt-8"
+              >
+                <img
+                  alt="..."
+                  src="../assets/img/foto1.jpg"
+                  class="align-middle rounded-t-lg"
+                  width="100%%"
+                  
+                  
+                />
+                <blockquote class="relative px-8 py-2 mb-4">
+                  <svg
+                    preserveAspectRatio="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 583 95"
+                    class="absolute left-0 w-full block"
+                    style="height: 95px; top: -94px;"
+                  >
+                    <polygon
+                      points="-30,95 583,95 583,65"
+                      class="text-blue-700 fill-current"
+                    ></polygon>
+                  </svg>
+                  <h4 class="text-xl font-bold text-white">
+                    Mi Experiencia
+                  </h4>
+                  <p class="text-md font-light mt-2 text-white">
+                   Este un poco sobre lo que he adquirido
+                  </p>
+                </blockquote>
+              </div>
+
+             <!-- sobre mi *********************************************** -->
+            <div>
+                  <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
+                    Sobre mi
+                  </h3>
+               <p
+                class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700 text-justify"
+              >
+                Soy un apasionado del mundo de la computación e informatica, profesional Ingeniero en Sistemas Computacionales.
+                Con experiencia en el Desarrollo de Software web, escritorio y movil. Y que ademas disfruta compartiendo sus conocimientos 
+                y aprendiendo con los demas como educador, profesor y formador.
+              </p>
+            </div>
+            <!-- **************************************************************************** -->
+                       <!-- ultimos trabajos -->
+                <div
+                  class="relative flex flex-col min-w-0 break-words">
+                        <!-- sobre trabajo -->
+                   <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
+                      Mis ultimos trabajos
+                   </h3>
+                    <ul class="list-none mt-6 text-justify">
+                      <li class="py-2">
+                        <div class="flex items-center">
+                          <div>
+                            <span
+                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                              ><i class="fas fa-briefcase"></i>
+                            </span>
+                          </div>
+                          <div>
+                            <h4 class="text-gray-600">
+                              Instructor-Centro de Desarrollo de Software, Fundación JBorja-Fundación Gloria de Kriete, Ahuachapán
+                            </h4>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="py-2">
+                        <div class="flex items-center">
+                          <div>
+                            <span
+                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                              ><i class="fas fa-briefcase"></i></span>
+                          </div>
+                          <div>
+                            <h4 class="text-gray-600">Docente Hora Clase, Facultada de Ingeniería y Ciencias Naturales-Universidad de Sonsonate</h4>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="py-2">
+                        <div class="flex items-center">
+                          <div>
+                            <span
+                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                              ><i class="fas fa-briefcase"></i></span>
+                          </div>
+                          <div>
+                            <h4 class="text-gray-600">Programador, CERTUS Desarrolladores</h4>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                </div>     
+            
+              <!-- ************************************** -->
+            </div>
+
+              <!-- texto informativo -->
+            <div class="w-full md:w-5/12 px-4 mr-auto ml-auto mt-8">
                   <!--Estudios*******************  -->
               <div class="">
                     <!-- logros -->
@@ -260,117 +364,6 @@
               </div>
           
             </div>
-
-
-        <!-- card con imagen referente a la seccion -->
-            <div class="w-full md:w-4/12 px-10">
-              
-              <!-- foto -->
-              <div
-                class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-700"
-              >
-                <img
-                  alt="..."
-                  src="../assets/img/foto1.jpg"
-                  class="align-middle rounded-t-lg"
-                  width="100%%"
-                  
-                  
-                />
-                <blockquote class="relative px-8 py-2 mb-4">
-                  <svg
-                    preserveAspectRatio="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 583 95"
-                    class="absolute left-0 w-full block"
-                    style="height: 95px; top: -94px;"
-                  >
-                    <polygon
-                      points="-30,95 583,95 583,65"
-                      class="text-blue-700 fill-current"
-                    ></polygon>
-                  </svg>
-                  <h4 class="text-xl font-bold text-white">
-                    Mi Experiencia
-                  </h4>
-                  <p class="text-md font-light mt-2 text-white">
-                   Este un poco sobre lo que he adquirido
-                  </p>
-                </blockquote>
-              </div>
-
-             <!-- sobre mi *********************************************** -->
-            <div>
-                  <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
-                    Sobre mi
-                  </h3>
-               <p
-                class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700 text-justify"
-              >
-                Soy un apasionado del mundo de la computación e informatica, profesional Ingeniero en Sistemas Computacionales.
-                Con experiencia en el Desarrollo de Software web, escritorio y movil. Y que ademas disfruta compartiendo sus conocimientos 
-                y aprendiendo con los demas como educador, profesor y formador.
-              </p>
-            </div>
-            <!-- **************************************************************************** -->
-                       <!-- ultimos trabajos -->
-                <div
-                  class="relative flex flex-col min-w-0 break-words">
-                        <!-- sobre trabajo -->
-                   <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
-                      Mis ultimos trabajos
-                   </h3>
-                    <ul class="list-none mt-6 text-justify">
-                      <li class="py-2">
-                        <div class="flex items-center">
-                          <div>
-                            <span
-                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                              ><i class="fas fa-briefcase"></i>
-                            </span>
-                          </div>
-                          <div>
-                            <h4 class="text-gray-600">
-                              Instructor-Centro de Desarrollo de Software, Fundación JBorja-Fundación Gloria de Kriete, Ahuachapán
-                            </h4>
-                          </div>
-                        </div>
-                      </li>
-                      <li class="py-2">
-                        <div class="flex items-center">
-                          <div>
-                            <span
-                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                              ><i class="fas fa-briefcase"></i></span>
-                          </div>
-                          <div>
-                            <h4 class="text-gray-600">Docente Hora Clase, Facultada de Ingeniería y Ciencias Naturales-Universidad de Sonsonate</h4>
-                          </div>
-                        </div>
-                      </li>
-                      <li class="py-2">
-                        <div class="flex items-center">
-                          <div>
-                            <span
-                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                              ><i class="fas fa-briefcase"></i></span>
-                          </div>
-                          <div>
-                            <h4 class="text-gray-600">Programador, CERTUS Desarrolladores</h4>
-                          </div>
-                        </div>
-                      </li>
-                    </ul>
-                </div>
-
-
-               
-            
-              <!-- ************************************** -->
-            </div>
-
-           
-         
 
           </div>
           <!-- ******************************************** -->

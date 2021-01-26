@@ -37,17 +37,7 @@
           </div>
           
           <div class="items-center flex flex-wrap">
-         
-            
-            <!-- imagen del car -->
-            <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
-              <img
-                alt="..."
-                class="max-w-full rounded-lg shadow-lg"
-                src="../assets/img/emoji2.gif"
-              />
-            </div>
-            
+
             <!-- contenido de la seccion -->
             <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
               <div class="pr-12">
@@ -88,6 +78,15 @@
                   </li>
                 </ul>
               </div>
+            </div>
+
+             <!-- imagen del car -->
+            <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
+              <img
+                alt="..."
+                class="max-w-full rounded-lg shadow-lg"
+                src="../assets/img/emoji2.gif"
+              />
             </div>
           </div>
         </div>
