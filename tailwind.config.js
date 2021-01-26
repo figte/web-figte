@@ -1,4 +1,5 @@
 module.exports = {
+  important : true,
   purge: [
     './src/**/*.html',
     './src/**/*.js',
@@ -8,7 +9,6 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {},
   },
   plugins: [],
 }
