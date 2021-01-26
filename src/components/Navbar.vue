@@ -38,7 +38,7 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#"
+              href="#proyectos"
               ><i
                 class="lg:text-gray-300 text-gray-500 fas fa-file-code circle-down text-lg leading-lg mr-2"
               ></i>
@@ -52,6 +52,7 @@
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
               href="https://www.facebook.com/walther.figueroatejada"
+               target="_blank"
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-facebook text-lg leading-lg "
               ></i
@@ -62,6 +63,7 @@
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
               href="https://twitter.com/Figte4"
+               target="_blank"
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-twitter text-lg leading-lg "
               ></i
@@ -72,6 +74,7 @@
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
               href="https://github.com/figte"
+               target="_blank"
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-github text-lg leading-lg "
               ></i
@@ -84,7 +87,7 @@
               rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3"
               type="button"
               style="transition: all 0.15s ease 0s;"
-              href="#"
+              href="#blog"
             >
                <i class="fab fa-blogger-b circle-down"></i> Mi Blog
             </a>

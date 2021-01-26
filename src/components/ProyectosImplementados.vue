@@ -1,12 +1,21 @@
 <template>
-     <section class="pt-20 pb-48">
+     <section class="pt-10 pb-48 mt-6">
+       
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap justify-center text-center mb-24">
             <!-- texto de la seccion -->
             <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold">Proyectos implementados</h2>
+                 <h3 class="flex-1 text-3xl font-semibold text-center">
+                     <!-- icono del contenido de la seccion -->
+                <div
+                  class="mt-6 text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-pink-300"
+                >
+                 <i class="fas fa-bolt"></i>
+                </div>
+                  Proyectos Implementados
+               </h3>
               <p class="text-lg leading-relaxed m-4 text-gray-600">
-                A continuacion puedes ver algunos proyectos en lo que he trabajado, y tambien logros
+                A continuación puedes ver algunos proyectos en lo que he trabajado y que puedes visitar o probar.
               </p>
             </div>
           </div>
@@ -25,11 +34,11 @@
                 <div class="pt-6 text-center">
                   <h5 class="text-xl font-bold">CCode</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    un proyecto de prototipo de lenguaje de programacion
+                    Proyecto de prototipo de lenguaje de programación.
                   </p>
                   <div class="mt-6">
                     <a href="http://ccode.bardcrack.com/"
-                      
+                      target="_blank"
                     >
                       Ir al sitio</a>
                    
@@ -49,12 +58,12 @@
                 <div class="pt-6 text-center">
                   <h5 class="text-xl font-bold">Aspire</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                 Sitio web para consultoria en el area de educacion, <br>
-                desarrollado en colaboracion
+                 Sitio web para consultoria en el area de educación, <br>
+                desarrollado en colaboración
                   </p>
                   <div class="mt-6">
                     <a href="https://aspire.edu.sv/"
-                      
+                     target="_blank" 
                     >
                       Ir al sitio</a>
                    
@@ -75,11 +84,11 @@
                   <h5 class="text-xl font-bold">Viajes Universales</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                     Sitio web para empresa de viajes en el sector del turismo, <br>
-                    desarrollado en colaboracion
+                    desarrollado en colaboración
                   </p>
                   <div class="mt-6">
                     <a href="http://www.viajesuniversales.net/post"
-                      
+                      target="_blank"
                     >
                       Ir al sitio</a>
                    
@@ -99,14 +108,14 @@
                 <div class="pt-6 text-center">
                   <h5 class="text-xl font-bold">SysAdmin</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                   Un sistema de facturacion e inventario demo. <br>
+                   Un sistema de facturación e inventario demo. <br>
                    usuario: admin  <br>
                    contraseña: password <br>
 
                   </p>
                   <div class="mt-6">
                     <a href="https://damp-reaches-48054.herokuapp.com/login"
-                      
+                      target="_blank"
                     >
                       Ir al sitio</a>
                    

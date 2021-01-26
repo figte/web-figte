@@ -1,5 +1,6 @@
 <template>
      <section class="pb-20 bg-gray-300 -mt-24">
+    
         <div class="container mx-auto px-4">
            <!-- CARDS O TARJETAS ************** -->
           <div class="flex flex-wrap">
@@ -55,7 +56,7 @@
                   </div>
                   <h6 class="text-xl font-semibold">Mi Blog</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                      Es un espacio  para compartir conocimiento, notocias y de buscar de esta forma
+                      Es un espacio  para compartir conocimientos, noticias e informacion del area; buscando de esta forma
                    fomentar el autoaprendizaje 
                   </p>
                 </div>
@@ -64,30 +65,105 @@
           </div>
           <!-- ************************************************ -->
 
+         
+
+        <!-- encabezado*********** -->
+          <div class="flex mt-20">
+              <!-- icono -->
+                  <h3 class=" flex-1 ml-2 text-center text-3xl mb-2 font-semibold leading-normal text-blue-800">
+                       <div
+                        class=" text-blue-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-blue-300"
+                          >
+                            <i class="fas fa-user-friends text-xl"></i>
+                        </div>
+                    Mi experiencia
+                  </h3>
+         
+            </div>
+          <!-- ************************************************* -->
+
+
           <!-- Informacion personal *************************-->
-          <div class="flex flex-wrap items-center mt-24">
+          <div class="flex flex-wrap items-center mt-2">
 
-            <!-- texto informativo -->
-            <div class="w-full md:w-5/12 px-4 mr-auto ml-auto -mt-24">
-              <div
-                class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-gray-100"
-              >
-                <i class="fas fa-user-friends text-xl"></i>
+             <!-- texto informativo -->
+            <div class="w-full md:w-5/12 px-2 mr-auto ml-auto mt-8">
+                  <!--Estudios*******************  -->
+              <div class="">
+                    <!-- logros -->
+                <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
+                    Estudios
+                </h3>
+                  <ul class="list-none mt-6 text-justify">
+                    <li class="py-2">
+                      <div class="flex items-center">
+                        <div>
+                          <span
+                            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                            ><i class="fas fa-graduation-cap"></i></span>
+                        </div>
+                        <div>
+                          <h4 class="text-gray-600">
+                          Ingeniería en Sistemas Computacionales, Universidad de Sonsonate (USO)
+                          </h4>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="py-2">
+                      <div class="flex items-center">
+                        <div>
+                          <span
+                            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                            ><i class="fas fa-graduation-cap"></i></span>
+                        </div>
+                        <div>
+                          <h4 class="text-gray-600">
+                          Certificación diseñador web,Camara Salvadoreña de Tecnología de Información y Comunicaciones (CASATIC) 
+                          </h4>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="py-2">
+                      <div class="flex items-center">
+                        <div>
+                          <span
+                            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                            ><i class="fas fa-graduation-cap"></i></span>
+                        </div>
+                        <div>
+                          <h4 class="text-gray-600">Certificación en desarrollador de software con JAVA, Camara Salvadoreña de Tecnologia de Información y Comunicaciones (CASATIC) </h4>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="py-2">
+                      <div class="flex items-center">
+                        <div>
+                          <span
+                            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                            ><i class="fas fa-graduation-cap"></i></span>
+                        </div>
+                        <div>
+                          <h4 class="text-gray-600">Certificación en desarrollador con PHP, Camara Salvadoreña de Tecnologia de Información y Comunicaciones (CASATIC) </h4>
+                        </div>
+                      </div>
+                    </li>
+                        <li class="py-2">
+                      <div class="flex items-center">
+                        <div>
+                          <span
+                            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                            ><i class="fas fa-graduation-cap"></i></span>
+                        </div>
+                        <div>
+                          <h4 class="text-gray-600">Certificacion en desarrollador con ASP.net MVC utilizando C#, Camara Salvadoreña de Tecnologia de Información y Comunicaciones (CASATIC) </h4>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
               </div>
-
+   
               <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
-                Mi experiencia
-              </h3>
-               <p
-                class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700 text-justify"
-              >
-                Soy un apasionado del mundo de la computacion e informatica, profesional Ingeniero en Sistemas Computacionales.
-                Con experiencia en el Desarrollo de Software web, escritorio y movil. Y que ademas disfruta compartiendo sus conocimientos 
-                y aprendiendo con los demas como educador, profesor y formador.
-              </p>
-
-               <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
-               Mis Conocimientos
+               Conocimientos y habilidades
               </h3>
 
               <!-- <p
@@ -122,7 +198,7 @@
              <!-- iiconos de tecnologias -->
               <div >
                  <div>
-                     <h5   class="font-bold text-gray-800 mt-6 text-center">Lenguajes de programacion</h5>
+                     <h5   class="font-bold text-gray-800 mt-6 text-center">Lenguajes de programación</h5>
                  
                         <img class="inline m-1 object-center ml-7" src="../assets/iconos/java.png" width="10%">
                         <img class="inline m-1 object-center" src="../assets/iconos/javascript.png" width="10%">
@@ -163,7 +239,7 @@
                       <img class="inline m-1" src="../assets/iconos/jquery.png" width="12%">
                  </div>
                   <div>
-                       <h5   class="font-bold text-gray-800 text-center mt-2">Gestion de proyectos</h5>
+                       <h5   class="font-bold text-gray-800 text-center mt-2">Gestión de proyectos</h5>
                       <img class="inline m-1 ml-7" src="../assets/iconos/git.png" width="12%">
                       <img class="inline m-1" src="../assets/iconos/github.png" width="12%">
                       <img class="inline m-1" src="../assets/iconos/gitlab.png" width="12%">
@@ -185,8 +261,11 @@
           
             </div>
 
-          <!-- card con imagen referente a la seccion -->
-            <div class="w-full md:w-4/12   px-4 mr-auto ml-auto  mt-8">
+
+        <!-- card con imagen referente a la seccion -->
+            <div class="w-full md:w-4/12 px-10">
+              
+              <!-- foto -->
               <div
                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-700"
               >
@@ -219,7 +298,80 @@
                   </p>
                 </blockquote>
               </div>
+
+             <!-- sobre mi *********************************************** -->
+            <div>
+                  <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
+                    Sobre mi
+                  </h3>
+               <p
+                class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700 text-justify"
+              >
+                Soy un apasionado del mundo de la computación e informatica, profesional Ingeniero en Sistemas Computacionales.
+                Con experiencia en el Desarrollo de Software web, escritorio y movil. Y que ademas disfruta compartiendo sus conocimientos 
+                y aprendiendo con los demas como educador, profesor y formador.
+              </p>
             </div>
+            <!-- **************************************************************************** -->
+                       <!-- ultimos trabajos -->
+                <div
+                  class="relative flex flex-col min-w-0 break-words">
+                        <!-- sobre trabajo -->
+                   <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
+                      Mis ultimos trabajos
+                   </h3>
+                    <ul class="list-none mt-6 text-justify">
+                      <li class="py-2">
+                        <div class="flex items-center">
+                          <div>
+                            <span
+                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                              ><i class="fas fa-briefcase"></i>
+                            </span>
+                          </div>
+                          <div>
+                            <h4 class="text-gray-600">
+                              Instructor-Centro de Desarrollo de Software, Fundación JBorja-Fundación Gloria de Kriete, Ahuachapán
+                            </h4>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="py-2">
+                        <div class="flex items-center">
+                          <div>
+                            <span
+                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                              ><i class="fas fa-briefcase"></i></span>
+                          </div>
+                          <div>
+                            <h4 class="text-gray-600">Docente Hora Clase, Facultada de Ingeniería y Ciencias Naturales-Universidad de Sonsonate</h4>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="py-2">
+                        <div class="flex items-center">
+                          <div>
+                            <span
+                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                              ><i class="fas fa-briefcase"></i></span>
+                          </div>
+                          <div>
+                            <h4 class="text-gray-600">Programador, CERTUS Desarrolladores</h4>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                </div>
+
+
+               
+            
+              <!-- ************************************** -->
+            </div>
+
+           
+         
+
           </div>
           <!-- ******************************************** -->
         </div>

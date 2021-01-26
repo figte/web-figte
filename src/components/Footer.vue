@@ -31,7 +31,7 @@
               class="bg-white text-blue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
  
             >
-            <a href="https://www.facebook.com/walther.figueroatejada">
+            <a href="https://www.facebook.com/walther.figueroatejada"  target="_blank">
               <i class="flex fab fa-facebook-square"></i>
             </a>
             </button>
@@ -40,7 +40,7 @@
               class="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
              
             >
-            <a href="https://twitter.com/Figte4">
+            <a href="https://twitter.com/Figte4"  target="_blank">
             <i class="flex fab fa-twitter"></i>
             </a>
               </button
@@ -48,7 +48,7 @@
               class="bg-white text-gray-900 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
               
             >
-            <a href="https://github.com/figte">
+            <a href="https://github.com/figte"  target="_blank">
               <i class="flex fab fa-github"></i>
             </a>
             </button>
@@ -65,21 +65,21 @@
                 <li>
                   <a
                     class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                    href="https://www.creative-tim.com/presentation"
+                    href="#"
                     >Inicio</a
                   >
                 </li>
                 <li>
                   <a
                     class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                    href="https://blog.creative-tim.com"
-                    >Sobre mi</a
+                    href="#logros"
+                    >Logros</a
                   >
                 </li>
                 <li>
                   <a
                     class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                    href="https://www.github.com/creativetimofficial"
+                    href="#experiencia"
                     >Experiencia</a
                   >
                 </li>
@@ -95,7 +95,7 @@
                 <li>
                   <a
                     class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                    href="#"
+                    href="#blog"
                     >Mi Blog</a
                   >
                 </li>
@@ -109,7 +109,7 @@
                 <li>
                   <a
                     class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                    href="#"
+                    href="#proyectos"
                     >Proyectos</a
                   >
                 </li>
