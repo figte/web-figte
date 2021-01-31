@@ -36,14 +36,23 @@
   </div>
 </template>
 <script>
-import NavbarComponent from "../components/Navbar.vue"
-import FooterComponent from "../components/Footer.vue"
-import Experiencia from "../components/Experiencia.vue"
-import Proyectos from '../components/Proyectos.vue'
-import ProyectosImplementados from "../components/ProyectosImplementados.vue"
-import Blog from '../components/Blog.vue'
-import FormContact from '../components/FormContact.vue'
-import Inicio from '../components/Inicio.vue'
+// import NavbarComponent from "../components/Navbar.vue"
+// import FooterComponent from "../components/Footer.vue"
+// import Experiencia from "../components/Experiencia.vue"
+// import Proyectos from '../components/Proyectos.vue'
+// import ProyectosImplementados from "../components/ProyectosImplementados.vue"
+// import Blog from '../components/Blog.vue'
+// import FormContact from '../components/FormContact.vue'
+// import Inicio from '../components/Inicio.vue'
+
+const NavbarComponent = () => import('../components/Navbar.vue')
+const FooterComponent = () => import('../components/Footer.vue')
+const Experiencia = () => import('../components/Experiencia.vue')
+const Proyectos = () => import('../components/Proyectos.vue')
+const ProyectosImplementados = () => import('../components/ProyectosImplementados.vue')
+const Blog = () => import('../components/Blog.vue')
+const FormContact = () => import('../components/FormContact.vue')
+const Inicio = () => import('../components/Inicio.vue')
 
 export default {
   name: "landing-page",

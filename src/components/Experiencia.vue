@@ -87,21 +87,21 @@
           <div class="flex flex-wrap items-center mt-2">
 
         <!-- card con imagen referente a la seccion -->
-            <div class="w-full md:w-4/12 px-4">
+            <div class="w-full md:w-3/12 px-2 -mt-24">
               
               <!-- foto -->
               <div
-                class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-700 mt-8"
+                class="relative -mt-24 flex flex-col min-w-0 break-words bg-white w-full mb-24 shadow-lg rounded-lg bg-blue-700 "
               >
                 <img
                   alt="..."
                   src="../assets/img/foto1.jpg"
                   class="align-middle rounded-t-lg"
-                  width="100%%"
+                  width="100%"
                   
                   
                 />
-                <blockquote class="relative px-8 py-2 mb-4">
+                <blockquote class="relative px-10 py-2 mb-4">
                   <svg
                     preserveAspectRatio="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -137,14 +137,14 @@
               </p>
             </div>
             <!-- **************************************************************************** -->
-                       <!-- ultimos trabajos -->
+            <!-- ultimos trabajos -->
                 <div
                   class="relative flex flex-col min-w-0 break-words">
                         <!-- sobre trabajo -->
                    <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
                       Mis ultimos trabajos
                    </h3>
-                    <ul class="list-none mt-6 text-justify">
+                    <ul class="list-none mt-6 ">
                       <li class="py-2">
                         <div class="flex items-center">
                           <div>
@@ -191,7 +191,7 @@
             </div>
 
               <!-- texto informativo -->
-            <div class="w-full md:w-5/12 px-4 mr-auto ml-auto mt-8">
+            <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-8 ">
                   <!--Estudios*******************  -->
               <div class="">
                     <!-- logros -->
@@ -266,103 +266,85 @@
                   </ul>
               </div>
    
-              <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
-               Conocimientos y habilidades
-              </h3>
-
-              <!-- <p
-                class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700 h-40 w-full overflow-auto text-justify"
-              >
-               Lenguajes  de  programación: <br>
-               JAVA;  PHP;  JavaScript;  C#  (.NET  y  .NET  Core); C/C++; Ruby. <br><br>
-               Bases de datos: <br>
-                MYSQL/MariaDB; ORACLE DATABASE; POSTGRESQL; SQL SERVER; Mongo DB; Firebase(Real Time DataBase).<br><br>
-              Metodologías  de  desarrollo: <br>
-                SCRUM  (Metodología  Ágil  para  el  desarrollo  de software).<br><br>
-               Control de versiones:<br>
-                Git, GitHub, GitLab, BitBicket.<br><br>
-            Despliegue    de    aplicaciones: <br>
-                Heroku(Nube),    GitHub(Nube),        Glassfish server(LAN), Tomcat Server(LAN), Apache Server(LAN).<br><br>
-            Gestión de proyectos: <br>
-                Team Fundation Server(TFS), Trello, Asana, Slack.<br><br>
-            Back-End:<br>
-                Servlets/JSP/Hibernate,  JSF/Prime  Faces,  Spring/SpringBoot  (Java); Laravel/Lumen/Eloquent(PHP); 
-                CodeIgniter (PHP); ASP.net MVC/Entity Framework (C# .net); NodeJS/Express(JS);  Ruby and Rails(Ruby).<br><br>
-            Front-End:<br>
-                Vue   JS;   Quasar;   React   JS;   SASS;   Tailwind;   BULMA;   Materialize; Bootstrap;  JQuery;
-                template  engine:  razor(C#-ASP.net),blade(php-Laravel), thymeleaf(Java-Spring-Boot).<br>
-                Otras tecnologías:<br><br>
-                Maven   y   Gradle(Java),   Composer(PHP);   NPM   (JS). JasperReport (Java); Crystal Reports (C# .net). 
-                Electron;Cordova;JSON;XML;API REST;GrahpQL;Docker;Linux;
-                patrones de diseños: Singleton, MVC, MVVM, DAO,  DTO,Facade, Inyeccióndedependencia,  ArquitecturaMicroservicios, FLUX.<br>
-              
-              
-              </p> -->
-              
-             <!-- iiconos de tecnologias -->
-              <div >
-                 <div>
-                     <h5   class="font-bold text-gray-800 mt-6 text-center">Lenguajes de programación</h5>
-                 
-                        <img class="inline m-1 object-center ml-7" src="../assets/iconos/java.png" width="10%">
-                        <img class="inline m-1 object-center" src="../assets/iconos/javascript.png" width="10%">
-                        <img class="inline m-1 object-center" src="../assets/iconos/csharp.png" width="10%">
-                        <img class="inline m-1 object-center" src="../assets/iconos/c++.png" width="10%">
-                        <img class="inline m-1 object-center" src="../assets/iconos/php.png" width="10%">
+               <div>
+                  <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
+                    Conocimientos y habilidades
+                  </h3>
+                  <div >
+                    <div>
+                        <h5   class="font-bold text-gray-800 mt-6 text-center">Lenguajes de programación</h5>
                     
-                 </div>
-                 <div>
-                       <h5   class="font-bold text-gray-800 text-center mt-2">Bases de datos</h5>
-                      <img class="inline m-1 ml-7" src="../assets/iconos/mysql.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/mariadb.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/postgresql.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/mssql.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/oracledb.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/mongodb.png" width="12%">
-                 </div>
-                   <div>
-                       <h5   class="font-bold text-gray-800 text-center mt-2">Back End</h5>
-                      <img class="inline m-1 ml-7" src="../assets/iconos/spring.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/nodejs.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/laravel.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/codeigniter.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/net.png" width="15%">
-  
-                 </div>
-                   <div>
-                       <h5   class="font-bold text-gray-800 text-center mt-2">Front End</h5>
-                      <img class="inline m-1 ml-7" src="../assets/iconos/vue.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/react.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/angular.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/quasar.svg" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/tailwind.svg" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/BulmaCSS.png" width="12%"> <br>
-                      <img class="inline m-1 ml-7" src="../assets/iconos/materialize.svg" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/bootstrap.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/sass.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/jquery.png" width="12%">
-                 </div>
-                  <div>
-                       <h5   class="font-bold text-gray-800 text-center mt-2">Gestión de proyectos</h5>
-                      <img class="inline m-1 ml-7" src="../assets/iconos/git.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/github.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/gitlab.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/bitbucket.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/trello.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/asana.png" width="12%"><br>
-                      <img class="inline m-1 ml-7" src="../assets/iconos/slack.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/tfs.png" width="12%">
-                 </div>
-                   <div>
-                       <h5   class="font-bold text-gray-800 text-center mt-2"> Otros</h5>
-                      <img class="inline m-1 ml-7" src="../assets/iconos/heroku.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/linux.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/cordova.png" width="12%">
-                      <img class="inline m-1" src="../assets/iconos/electron.png" width="12%">
-                     
-                 </div>
-              </div>
-          
+                            <img class="inline m-1 object-center ml-7" src="../assets/iconos/java.png" width="10%">
+                            <img class="inline m-1 object-center" src="../assets/iconos/php.png" width="10%">
+                            <img class="inline m-1 object-center" src="../assets/iconos/javascript.png" width="10%">
+                            <img class="inline m-1 object-center" src="../assets/iconos/csharp.png" width="10%">
+                            <img class="inline m-1 object-center" src="../assets/iconos/c.png" width="10%">
+                            <img class="inline m-1 object-center" src="../assets/iconos/c++.png" width="10%">
+                        
+                    </div>
+                    <div>
+                          <h5   class="font-bold text-gray-800 text-center mt-2">Bases de datos</h5>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/mysql.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/mariadb.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/postgresql.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/mssql.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/oracledb.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/mongodb.png" width="12%"><br>
+                          <img class="inline m-1 ml-6" src="../assets/iconos/firebase.png" width="25%">
+                    </div>
+                      <div>
+                          <h5   class="font-bold text-gray-800 text-center mt-2">Back End</h5>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/spring.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/nodejs.png" width="15%">
+                          <img class="inline m-1" src="../assets/iconos/laravel.png" width="15%">
+                          <img class="inline m-1" src="../assets/iconos/codeigniter.png" width="15%">
+                          <img class="inline m-1" src="../assets/iconos/net.png" width="12%">
+      
+                    </div>
+                      <div>
+                          <h5   class="font-bold text-gray-800 text-center mt-2">Front End</h5>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/vue.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/react.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/angular.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/tailwind.svg" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/BulmaCSS.png" width="12%"> 
+                          <img class="inline m-1" src="../assets/iconos/materialize.svg" width="12%"><br>
+                          <img class="inline m-1 ml-6" src="../assets/iconos/bootstrap.png" width="15%">
+                          <img class="inline m-1 " src="../assets/iconos/sass.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/jquery.png" width="12%">
+                    </div>
+                      <div>
+                          <h5   class="font-bold text-gray-800 text-center mt-2">Dispositivos Moviles</h5>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/android.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/quasar.svg" width="12%">
+
+                    </div>
+                      <div>
+                          <h5   class="font-bold text-gray-800 text-center mt-2">Gestión de proyectos</h5>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/git.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/github.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/gitlab.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/bitbucket.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/maven.png" width="15%">
+                          <img class="inline m-1" src="../assets/iconos/composer.png" width="15%"><br>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/trello.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/asana.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/slack.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/tfs.png" width="12%">
+                    </div>
+                      <div>
+                          <h5   class="font-bold text-gray-800 text-center mt-2"> Otros</h5>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/heroku.png" width="12%">
+                          <img class="inline m-1 ml-7" src="../assets/iconos/docker.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/linux.png" width="12%">
+                          <img class="inline m-1 ml-7" src="../assets/iconos/qt.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/cordova.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/electron.png" width="12%">
+                        
+                    </div>
+                  </div>
+              
+               </div>
             </div>
 
           </div>

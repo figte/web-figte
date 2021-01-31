@@ -24,19 +24,25 @@
           <div class="flex flex-wrap">
 
             <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-              <div class="px-6">
+              <div class="px-2">
                 <img
                   alt="..."
                   src="../assets/iconos/ccode.png"
-                  class="shadow-lg max-w-full mx-auto"
-                  style="width: 50px;"
+                  class="shadow-lg  mx-auto"
+                  style="width: 60px;"
                 />
                 <div class="pt-6 text-center">
                   <h5 class="text-xl font-bold">CCode</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                     Proyecto de prototipo de lenguaje de programación.
                   </p>
-                  <div class="mt-6">
+                  <div>
+                    <p class="font-bold">Tecnologias</p>
+                     <img class="inline m-1 object-center" src="../assets/iconos/c.png" width="15%">
+                    <img class="inline m-1 object-center" src="../assets/iconos/c++.png" width="15%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/qt.png" width="15%">
+                  </div>
+                  <div class="mt-6 font-bold text-blue-800">
                     <a href="http://ccode.bardcrack.com/"
                       target="_blank"
                     >
@@ -48,12 +54,12 @@
             </div>
 
             <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-              <div class="px-6">
+              <div class="px-2">
                 <img
                   alt="..."
                   src="../assets/iconos/aspire.png"
-                  class="shadow-lg rounded-full max-w-full mx-auto"
-                  style="max-width: 120px;"
+                  class="shadow-lg rounded-full  mx-auto"
+                  style="max-width: 200px;"
                 />
                 <div class="pt-6 text-center">
                   <h5 class="text-xl font-bold">Aspire</h5>
@@ -61,7 +67,13 @@
                  Sitio web para consultoria en el area de educación, <br>
                 desarrollado en colaboración
                   </p>
-                  <div class="mt-6">
+                   <div>
+                    <p class="font-bold">Tecnologias</p>
+                     <img class="inline m-1 object-center" src="../assets/iconos/vue.png" width="15%">
+                    <img class="inline m-1 object-center" src="../assets/iconos/nodejs.png" width="25%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/tailwind.svg" width="15%">
+                  </div>
+                  <div class="mt-6 font-bold text-blue-800">
                     <a href="https://aspire.edu.sv/"
                      target="_blank" 
                     >
@@ -72,13 +84,13 @@
               </div>
             </div>
 
-                  <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-              <div class="px-6">
+          <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+              <div class="px-2">
                 <img
                   alt="..."
                   src="../assets/iconos/viajes.png"
-                  class="shadow-lg rounded-full max-w-full mx-auto"
-                  style="max-width: 120px;"
+                  class="shadow-lg rounded-full  mx-auto"
+                  style="max-width: 180px;"
                 />
                 <div class="pt-6 text-center">
                   <h5 class="text-xl font-bold">Viajes Universales</h5>
@@ -86,7 +98,15 @@
                     Sitio web para empresa de viajes en el sector del turismo, <br>
                     desarrollado en colaboración
                   </p>
-                  <div class="mt-6">
+                   <div>
+                    <p class="font-bold">Tecnologias</p>
+                     <img class="inline m-1 object-center" src="../assets/iconos/vue.png" width="10%">
+                    <img class="inline m-1 object-center" src="../assets/iconos/nodejs.png" width="20%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/tailwind.svg" width="8%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/laravel.png" width="25%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/postgresql.png" width="15%">
+                  </div>
+                  <div class="mt-6 font-bold text-blue-800">
                     <a href="http://www.viajesuniversales.net/post"
                       target="_blank"
                     >
@@ -97,12 +117,12 @@
               </div>
             </div>
 
-                  <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-              <div class="px-6">
+            <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+              <div class="px-2">
                 <img
                   alt="..."
                   src="../assets/iconos/sisadmin.jpg"
-                  class="shadow-lg rounded-full max-w-full mx-auto"
+                  class="shadow-lg rounded-full l mx-auto"
                   style="max-width: 75px;"
                 />
                 <div class="pt-6 text-center">
@@ -113,7 +133,14 @@
                    contraseña: password <br>
 
                   </p>
-                  <div class="mt-6">
+                   <div>
+                    <p class="font-bold">Tecnologias</p>
+                     <img class="inline m-1 object-center" src="../assets/iconos/spring.png" width="18%">
+                    <img class="inline m-1 object-center" src="../assets/iconos/postgresql.png" width="18%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/bootstrap.png" width="22%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/jquery.png" width="18%">
+                  </div>
+                  <div class="mt-6 font-bold text-blue-800">
                     <a href="https://damp-reaches-48054.herokuapp.com/login"
                       target="_blank"
                     >

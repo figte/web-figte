@@ -1,5 +1,5 @@
 module.exports = {
-  // important : true,
+   important : true,
   purge: [
     './src/**/*.html',
     './src/**/*.vue',
@@ -12,4 +12,5 @@ module.exports = {
   variants: {
   },
   plugins: [],
+ 
 }

@@ -23,7 +23,7 @@
  
             <div class=" w-6/12 md:w-8/12 px-4 ml-auto mr-auto text-center mt-4">
             
-                <h1 class="text-blue-800 font-semibold  text-3xl lg:text-4xl  xl:text-6xl">
+                <h1 class="text-blue-800 font-semibold  text-2xl sm:text-3xl  xl:text-5xl">
                 WALTHER ALFREDO <span class="text-white">FIG</span>UEROA <span class="text-white">TE</span>JADA
                 </h1>
                 <p class="mt-4 sm:text-md md:text-2xl text-blue-800 ">
