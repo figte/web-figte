@@ -135,11 +135,11 @@
               >Desarrollador</a
             >.
           </div>
-           <h6  class="text-sm text-gray-600 font-semibold py-1 ">Tecnologias implementadas en este sito web:</h6>
-           <img class="inline m-1 " src="../assets/iconos/javascript.png" width="7%">
+           <h6  class="text-sm text-gray-600 font-semibold py-1 ">Tecnologias mas relevantes implementadas en este sito web:</h6>
            <img class="inline m-1 " src="../assets/iconos/vue.png" width="7%">
-           <img class="inline m-1" src="../assets/iconos/nodejs.png" width="15%">
            <img class="inline m-1" src="../assets/iconos/tailwind.svg" width="8%">
+           <img class="inline m-1" src="../assets/iconos/nodejs.png" width="15%">
+           <img class="inline m-1" src="../assets/iconos/git.png" width="8%">
            <img class="inline m-1 " src="../assets/iconos/heroku.png" width="15%">
           
         </div>

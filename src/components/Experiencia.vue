@@ -221,9 +221,7 @@
                             ><i class="fas fa-graduation-cap"></i></span>
                         </div>
                         <div>
-                          <h4 class="text-gray-600">
-                          Certificación diseñador web,Camara Salvadoreña de Tecnología de Información y Comunicaciones (CASATIC) 
-                          </h4>
+                          <h4 class="text-gray-600">Certificacion en desarrollador con ASP.net MVC utilizando C#, Camara Salvadoreña de Tecnologia de Información y Comunicaciones (CASATIC) </h4>
                         </div>
                       </div>
                     </li>
@@ -251,7 +249,8 @@
                         </div>
                       </div>
                     </li>
-                        <li class="py-2">
+                   
+                     <li class="py-2">
                       <div class="flex items-center">
                         <div>
                           <span
@@ -259,7 +258,9 @@
                             ><i class="fas fa-graduation-cap"></i></span>
                         </div>
                         <div>
-                          <h4 class="text-gray-600">Certificacion en desarrollador con ASP.net MVC utilizando C#, Camara Salvadoreña de Tecnologia de Información y Comunicaciones (CASATIC) </h4>
+                          <h4 class="text-gray-600">
+                          Certificación diseñador web,Camara Salvadoreña de Tecnología de Información y Comunicaciones (CASATIC) 
+                          </h4>
                         </div>
                       </div>
                     </li>
@@ -276,7 +277,7 @@
                     
                             <img class="inline m-1 object-center ml-7" src="../assets/iconos/java.png" width="10%">
                             <img class="inline m-1 object-center" src="../assets/iconos/php.png" width="10%">
-                            <img class="inline m-1 object-center" src="../assets/iconos/javascript.png" width="10%">
+                            <img class="inline m-1 object-center" src="../assets/iconos/javascript.png" width="8%">
                             <img class="inline m-1 object-center" src="../assets/iconos/csharp.png" width="10%">
                             <img class="inline m-1 object-center" src="../assets/iconos/c.png" width="10%">
                             <img class="inline m-1 object-center" src="../assets/iconos/c++.png" width="10%">
@@ -290,15 +291,15 @@
                           <img class="inline m-1" src="../assets/iconos/mssql.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/oracledb.png" width="12%">
                           <img class="inline m-1 " src="../assets/iconos/mongodb.png" width="12%"><br>
-                          <img class="inline m-1 ml-6" src="../assets/iconos/firebase.png" width="25%">
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Back End</h5>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/spring.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/nodejs.png" width="15%">
+                          <img class="inline m-1 ml-7" src="../assets/iconos/spring.png" width="12%"> 
                           <img class="inline m-1" src="../assets/iconos/laravel.png" width="15%">
                           <img class="inline m-1" src="../assets/iconos/codeigniter.png" width="15%">
                           <img class="inline m-1" src="../assets/iconos/net.png" width="12%">
+                           <img class="inline m-1" src="../assets/iconos/netCore.svg" width="12%">
+                            <img class="inline m-1" src="../assets/iconos/nodejs.png" width="15%">
       
                     </div>
                       <div>
@@ -326,8 +327,9 @@
                           <img class="inline m-1" src="../assets/iconos/gitlab.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/bitbucket.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/maven.png" width="15%">
-                          <img class="inline m-1" src="../assets/iconos/composer.png" width="15%"><br>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/trello.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/gradle.png" width="15%"><br>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/composer.png" width="15%">
+                          <img class="inline m-1" src="../assets/iconos/trello.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/asana.png" width="12%">
                           <img class="inline m-1 " src="../assets/iconos/slack.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/tfs.png" width="12%">
@@ -335,12 +337,14 @@
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2"> Otros</h5>
                           <img class="inline m-1 ml-7" src="../assets/iconos/heroku.png" width="12%">
-                          <img class="inline m-1 ml-7" src="../assets/iconos/docker.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/linux.png" width="12%">
-                          <img class="inline m-1 ml-7" src="../assets/iconos/qt.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/cordova.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/electron.png" width="12%">
-                        
+                          <img class="inline m-1 " src="../assets/iconos/firebase.png" width="25%">
+                          <img class="inline m-1 " src="../assets/iconos/restful.png" width="13%">
+                          <img class="inline m-1 " src="../assets/iconos/jwt.png" width="10%">
+                          <img class="inline m-1 " src="../assets/iconos/docker.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/linux.png" width="12%"><br>
+                          <img class="inline m-1 ml-7" src="../assets/iconos/qt.png" width="10%">
+                          <img class="inline m-1" src="../assets/iconos/cordova.png" width="10%">
+                          <img class="inline m-1 " src="../assets/iconos/electron.png" width="10%">
                     </div>
                   </div>
               

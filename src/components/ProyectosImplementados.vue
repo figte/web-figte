@@ -101,8 +101,8 @@
                    <div>
                     <p class="font-bold">Tecnologias</p>
                      <img class="inline m-1 object-center" src="../assets/iconos/vue.png" width="10%">
-                    <img class="inline m-1 object-center" src="../assets/iconos/nodejs.png" width="20%">
-                     <img class="inline m-1 object-center" src="../assets/iconos/tailwind.svg" width="8%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/tailwind.svg" width="10%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/jwt.png" width="12%">
                      <img class="inline m-1 object-center" src="../assets/iconos/laravel.png" width="25%">
                      <img class="inline m-1 object-center" src="../assets/iconos/postgresql.png" width="15%">
                   </div>
