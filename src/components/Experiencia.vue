@@ -126,7 +126,7 @@
              <!-- sobre mi *********************************************** -->
             <div>
                   <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
-                    Sobre mi
+                    Sobre mí
                   </h3>
                <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700 text-justify"
@@ -142,7 +142,7 @@
                   class="relative flex flex-col min-w-0 break-words">
                         <!-- sobre trabajo -->
                    <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
-                      Mis ultimos trabajos
+                      Mis últimos trabajos
                    </h3>
                     <ul class="list-none mt-6 ">
                       <li class="py-2">
@@ -196,7 +196,7 @@
               <div class="">
                     <!-- logros -->
                 <h3 class="text-3xl mb-2 font-semibold leading-normal text-blue-800">
-                    Estudios
+                    Formación
                 </h3>
                   <ul class="list-none mt-6 text-justify">
                     <li class="py-2">
@@ -295,11 +295,11 @@
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Back End</h5>
                           <img class="inline m-1 ml-7" src="../assets/iconos/spring.png" width="12%"> 
+                          <img class="inline m-1" src="../assets/iconos/netCore.svg" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/net.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/laravel.png" width="15%">
                           <img class="inline m-1" src="../assets/iconos/codeigniter.png" width="15%">
-                          <img class="inline m-1" src="../assets/iconos/net.png" width="12%">
-                           <img class="inline m-1" src="../assets/iconos/netCore.svg" width="12%">
-                            <img class="inline m-1" src="../assets/iconos/nodejs.png" width="15%">
+                          <img class="inline m-1" src="../assets/iconos/nodejs.png" width="15%">
       
                     </div>
                       <div>
@@ -337,12 +337,13 @@
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2"> Otros</h5>
                           <img class="inline m-1 ml-7" src="../assets/iconos/heroku.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/azure.svg" width="12%">
                           <img class="inline m-1 " src="../assets/iconos/firebase.png" width="25%">
                           <img class="inline m-1 " src="../assets/iconos/restful.png" width="13%">
                           <img class="inline m-1 " src="../assets/iconos/jwt.png" width="10%">
                           <img class="inline m-1 " src="../assets/iconos/docker.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/linux.png" width="12%"><br>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/qt.png" width="10%">
+                          <img class="inline m-1 ml-7" src="../assets/iconos/linux.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/qt.png" width="10%">
                           <img class="inline m-1" src="../assets/iconos/cordova.png" width="10%">
                           <img class="inline m-1 " src="../assets/iconos/electron.png" width="10%">
                     </div>
