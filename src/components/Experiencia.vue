@@ -155,6 +155,21 @@
                           </div>
                           <div>
                             <h4 class="text-gray-600">
+                              Programador JAVA-Ministerio de Hacienda, Unidad Normativa de Adquisiciones y Contrataciones de la Administración Pública
+                            </h4>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="py-2">
+                        <div class="flex items-center">
+                          <div>
+                            <span
+                              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
+                              ><i class="fas fa-briefcase"></i>
+                            </span>
+                          </div>
+                          <div>
+                            <h4 class="text-gray-600">
                               Instructor-Centro de Desarrollo de Software, Fundación JBorja-Fundación Gloria de Kriete, Ahuachapán
                             </h4>
                           </div>
@@ -191,7 +206,7 @@
             </div>
 
               <!-- texto informativo -->
-            <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-8 ">
+            <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-7 ">
                   <!--Estudios*******************  -->
               <div class="">
                     <!-- logros -->
@@ -275,7 +290,7 @@
                     <div>
                         <h5   class="font-bold text-gray-800 mt-6 text-center">Lenguajes de programación</h5>
                     
-                            <img class="inline m-1 object-center ml-7" src="../assets/iconos/java.png" width="10%">
+                            <img class="inline m-1 object-center " src="../assets/iconos/java.png" width="10%">
                             <img class="inline m-1 object-center" src="../assets/iconos/php.png" width="10%">
                             <img class="inline m-1 object-center" src="../assets/iconos/javascript.png" width="8%">
                             <img class="inline m-1 object-center" src="../assets/iconos/csharp.png" width="10%">
@@ -285,7 +300,7 @@
                     </div>
                     <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Bases de datos</h5>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/mysql.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/mysql.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/mariadb.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/postgresql.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/mssql.png" width="12%">
@@ -294,7 +309,7 @@
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Back End</h5>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/spring.png" width="12%"> 
+                          <img class="inline m-1 " src="../assets/iconos/spring.png" width="12%"> 
                           <img class="inline m-1" src="../assets/iconos/netCore.svg" width="12%">
                           <img class="inline m-1" src="../assets/iconos/net.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/laravel.png" width="15%">
@@ -304,45 +319,46 @@
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Front End</h5>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/vue.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/vue.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/react.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/angular.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/tailwind.svg" width="12%">
                           <img class="inline m-1" src="../assets/iconos/BulmaCSS.png" width="12%"> 
                           <img class="inline m-1" src="../assets/iconos/materialize.svg" width="12%"><br>
-                          <img class="inline m-1 ml-6" src="../assets/iconos/bootstrap.png" width="15%">
+                          <img class="inline m-1 " src="../assets/iconos/bootstrap.png" width="15%">
                           <img class="inline m-1 " src="../assets/iconos/sass.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/jquery.png" width="12%">
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Dispositivos Moviles</h5>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/android.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/android.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/quasar.svg" width="12%">
 
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Gestión de proyectos</h5>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/git.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/git.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/github.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/gitlab.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/bitbucket.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/maven.png" width="15%">
                           <img class="inline m-1" src="../assets/iconos/gradle.png" width="15%"><br>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/composer.png" width="15%">
+                          <img class="inline m-1 " src="../assets/iconos/composer.png" width="15%">
                           <img class="inline m-1" src="../assets/iconos/trello.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/asana.png" width="12%">
                           <img class="inline m-1 " src="../assets/iconos/slack.png" width="12%">
                           <img class="inline m-1" src="../assets/iconos/tfs.png" width="12%">
+                          <img class="inline m-1" src="../assets/iconos/tuleap.png" width="10%">
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2"> Otros</h5>
-                          <img class="inline m-1 ml-7" src="../assets/iconos/heroku.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/heroku.png" width="12%">
                           <img class="inline m-1 " src="../assets/iconos/azure.svg" width="12%">
                           <img class="inline m-1 " src="../assets/iconos/firebase.png" width="25%">
                           <img class="inline m-1 " src="../assets/iconos/restful.png" width="13%">
                           <img class="inline m-1 " src="../assets/iconos/jwt.png" width="10%">
                           <img class="inline m-1 " src="../assets/iconos/docker.png" width="12%">
-                          <img class="inline m-1 ml-7" src="../assets/iconos/linux.png" width="12%">
+                          <img class="inline m-1 " src="../assets/iconos/linux.png" width="12%">
                           <img class="inline m-1 " src="../assets/iconos/qt.png" width="10%">
                           <img class="inline m-1" src="../assets/iconos/cordova.png" width="10%">
                           <img class="inline m-1 " src="../assets/iconos/electron.png" width="10%">
