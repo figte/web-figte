@@ -296,72 +296,73 @@
                             <img class="inline m-1 object-center" src="../assets/iconos/csharp.png" width="10%">
                             <img class="inline m-1 object-center" src="../assets/iconos/c.png" width="10%">
                             <img class="inline m-1 object-center" src="../assets/iconos/c++.png" width="10%">
+                            <img class="inline m-1 object-center" src="../assets/iconos/kotline.webp" width="20%">
                         
                     </div>
                     <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Bases de datos</h5>
-                          <img class="inline m-1 " src="../assets/iconos/mysql.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/mariadb.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/postgresql.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/mssql.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/oracledb.png" width="12%">
-                          <img class="inline m-1 " src="../assets/iconos/mongodb.png" width="12%"><br>
+                          <img class="inline m-1 object-center" src="../assets/iconos/mysql.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/mariadb.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/postgresql.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/mssql.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/oracledb.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/mongodb.png" width="12%"><br>
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Back End</h5>
-                          <img class="inline m-1 " src="../assets/iconos/spring.png" width="12%"> 
-                          <img class="inline m-1" src="../assets/iconos/netCore.svg" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/net.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/laravel.png" width="15%">
-                          <img class="inline m-1" src="../assets/iconos/codeigniter.png" width="15%">
-                          <img class="inline m-1" src="../assets/iconos/nodejs.png" width="15%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/spring.png" width="12%"> 
+                          <img class="inline m-1 object-center" src="../assets/iconos/netCore.svg" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/net.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/laravel.png" width="15%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/codeigniter.png" width="14%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/nodejs.png" width="18%">
       
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Front End</h5>
-                          <img class="inline m-1 " src="../assets/iconos/vue.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/react.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/angular.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/tailwind.svg" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/BulmaCSS.png" width="12%"> 
-                          <img class="inline m-1" src="../assets/iconos/materialize.svg" width="12%"><br>
-                          <img class="inline m-1 " src="../assets/iconos/bootstrap.png" width="15%">
-                          <img class="inline m-1 " src="../assets/iconos/sass.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/jquery.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/vue.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/react.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/angular.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/tailwind.svg" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/BulmaCSS.png" width="12%"> 
+                          <img class="inline m-1 object-center" src="../assets/iconos/materialize.svg" width="12%"><br>
+                          <img class="inline m-1 object-center" src="../assets/iconos/bootstrap.png" width="15%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/sass.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/jquery.png" width="12%">
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Dispositivos Moviles</h5>
-                          <img class="inline m-1 " src="../assets/iconos/android.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/quasar.svg" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/android.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/quasar.svg" width="12%">
 
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2">Gestión de proyectos</h5>
-                          <img class="inline m-1 " src="../assets/iconos/git.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/github.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/gitlab.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/bitbucket.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/maven.png" width="15%">
-                          <img class="inline m-1" src="../assets/iconos/gradle.png" width="15%"><br>
-                          <img class="inline m-1 " src="../assets/iconos/composer.png" width="15%">
-                          <img class="inline m-1" src="../assets/iconos/trello.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/asana.png" width="12%">
-                          <img class="inline m-1 " src="../assets/iconos/slack.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/tfs.png" width="12%">
-                          <img class="inline m-1" src="../assets/iconos/tuleap.png" width="10%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/git.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/github.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/gitlab.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/bitbucket.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/maven.png" width="15%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/gradle.png" width="15%"><br>
+                          <img class="inline m-1 object-center" src="../assets/iconos/composer.png" width="15%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/trello.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/asana.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/slack.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/tfs.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/tuleap.png" width="10%">
                     </div>
                       <div>
                           <h5   class="font-bold text-gray-800 text-center mt-2"> Otros</h5>
-                          <img class="inline m-1 " src="../assets/iconos/heroku.png" width="12%">
-                          <img class="inline m-1 " src="../assets/iconos/azure.svg" width="12%">
-                          <img class="inline m-1 " src="../assets/iconos/firebase.png" width="25%">
-                          <img class="inline m-1 " src="../assets/iconos/restful.png" width="13%">
-                          <img class="inline m-1 " src="../assets/iconos/jwt.png" width="10%">
-                          <img class="inline m-1 " src="../assets/iconos/docker.png" width="12%">
-                          <img class="inline m-1 " src="../assets/iconos/linux.png" width="12%">
-                          <img class="inline m-1 " src="../assets/iconos/qt.png" width="10%">
-                          <img class="inline m-1" src="../assets/iconos/cordova.png" width="10%">
-                          <img class="inline m-1 " src="../assets/iconos/electron.png" width="10%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/heroku.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/azure.svg" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/firebase.png" width="25%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/restful.png" width="13%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/jwt.png" width="10%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/docker.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/linux.png" width="12%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/qt.png" width="10%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/cordova.png" width="10%">
+                          <img class="inline m-1 object-center" src="../assets/iconos/electron.png" width="10%">
                     </div>
                   </div>
               
