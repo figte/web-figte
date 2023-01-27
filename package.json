@@ -1,6 +1,10 @@
 {
   "name": "webpersonal",
-  "version": "0.1.0",
+  "version": "1.0.1",
+  "description": "mi web personal",
+  "engines": {
+    "node": "18.x"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
