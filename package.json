@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "mi web personal",
   "engines": {
-    "node": "18.x"
+    "node": "14.x"
   },
   "private": true,
   "scripts": {
