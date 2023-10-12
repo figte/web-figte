@@ -124,28 +124,23 @@
               <div class="px-2">
                 <img
                   alt="..."
-                  src="../assets/iconos/sisadmin.jpg"
-                  class="shadow-lg rounded-full l mx-auto"
-                  style="max-width: 75px;"
+                  src="../assets/iconos/LogoMH_Gris.png"
+                  class="shadow-lg l mx-auto"
+                  style="max-width: 175px;"
                 />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold uppercase">SysAdmin</h5>
+                  <h5 class="text-xl font-bold uppercase">Portal Web Ministerio de Hacienda</h5>
                   <p class="mt-1 text-sm text-gray-500  font-semibold">
-                   Un sistema de facturación e inventario demo. <br>
-                   usuario: admin  <br>
-                   contraseña: password <br>
+                  Portal web de Ministerio de Hacienda El Salvador
 
                   </p>
                    <div>
                     <p class="font-bold">Tecnologias</p>
-                     <img class="inline m-1 object-center" src="../assets/iconos/spring.png" width="18%">
-                    <img class="inline m-1 object-center" src="../assets/iconos/postgresql.png" width="18%">
-                     <img class="inline m-1 object-center" src="../assets/iconos/bootstrap.png" width="22%">
-                     <img class="inline m-1 object-center" src="../assets/iconos/jquery.png" width="18%">
-                     
+                     <img class="inline m-1 object-center" src="../assets/iconos/php.png" width="18%">
+                     <img class="inline m-1 object-center" src="../assets/iconos/mysql.png" width="18%">
                   </div>
                   <div class="mt-6 font-bold text-blue-800">
-                    <a href="https://damp-reaches-48054.herokuapp.com/login"
+                    <a href="https://www.mh.gob.sv"
                       target="_blank"
                        class="text-blue-900 hover:text-blue-500"
                     >
