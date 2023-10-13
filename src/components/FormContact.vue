@@ -1,5 +1,5 @@
 <template>
-   <section class="relative block py-24 lg:pt-0 bg-blue-500">
+   <!-- <section class="relative block py-24 lg:pt-0 bg-blue-500">
 
         <div class="container mx-auto px-4 ">
           <div class="flex flex-wrap justify-center lg:-mt-64 -mt-48">
@@ -65,7 +65,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 </template>
 
 <script>

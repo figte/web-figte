@@ -28,7 +28,7 @@
       <!-- ********************************************************************************* -->
 
       <!-- seccion del formulacion para contacto ******************************************-->
-      <form-contact></form-contact>
+      <!-- <form-contact></form-contact> -->
       <!-- ********************************************************************************* -->
     </main>
     <footer-component></footer-component>
@@ -51,7 +51,7 @@ const Experiencia = () => import('../components/Experiencia.vue')
 const Proyectos = () => import('../components/Proyectos.vue')
 const ProyectosImplementados = () => import('../components/ProyectosImplementados.vue')
 const Blog = () => import('../components/Blog.vue')
-const FormContact = () => import('../components/FormContact.vue')
+// const FormContact = () => import('../components/FormContact.vue')
 const Inicio = () => import('../components/Inicio.vue')
 
 export default {
@@ -63,7 +63,7 @@ export default {
     Proyectos,
     ProyectosImplementados,
     Blog,
-    FormContact,
+    // FormContact,
     Inicio,
   }
 }
